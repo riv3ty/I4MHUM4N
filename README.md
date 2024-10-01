@@ -1,2 +1,2 @@
 # I4MHUM4N
-Discord Bot Based on Python fo a school project
+Discord Bot Based on Python for a school project
